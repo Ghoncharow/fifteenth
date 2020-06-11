@@ -4,6 +4,8 @@
 
 В работе с кодом модулей, компонентов и шаблонов Битрикса пользуюсь официальными первоисточниками:
 
+https://bxapi.ru/
+
 https://dev.1c-bitrix.ru/user_help/index.php
 
 https://dev.1c-bitrix.ru/api_help/index.php
